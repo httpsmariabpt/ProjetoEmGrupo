@@ -1,12 +1,292 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\veterinarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\veterinarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\especialidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\especialidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeterinariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\VeterinariosController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\VeterinariosController.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\VeterinariosController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\VeterinariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:52:48.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EspecialidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\EspecialidadesController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\EspecialidadesController.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\EspecialidadesController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\EspecialidadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:52:03.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:50:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:50:04.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\AnimalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:47:59.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251022144557_BancoFinalizados.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
+              "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
+              "RelativeToolTip": "projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:45:57.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251022143639_BancoFinalizados.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs",
+              "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs",
+              "RelativeToolTip": "projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:36:39.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251022143144_BancoFinalizado.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs",
+              "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs",
+              "RelativeToolTip": "projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:31:44.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Especialidade.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Especialidade.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Especialidade.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Especialidade.cs",
+              "RelativeToolTip": "projeto\\Models\\Especialidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:23:28.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Veterinario.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Veterinario.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Veterinario.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Veterinario.cs",
+              "RelativeToolTip": "projeto\\Models\\Veterinario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:34:40.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Consulta.cs",
+              "RelativeToolTip": "projeto\\Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:34:25.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Cliente.cs",
+              "RelativeToolTip": "projeto\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:34:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "projeto\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "projeto\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:31:29.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Animal.cs",
+              "RelativeToolTip": "projeto\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:29:58.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\appsettings.json",
+              "RelativeDocumentMoniker": "projeto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\appsettings.json",
+              "RelativeToolTip": "projeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T13:25:11.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "projeto",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\projeto.csproj",
+              "RelativeDocumentMoniker": "projeto\\projeto.csproj",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\projeto.csproj",
+              "RelativeToolTip": "projeto\\projeto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T13:06:34.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
