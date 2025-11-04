@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\img\\fundoClinica.png",
+      "PackagePath": "staticwebassets\\img\\fundoClinica.png"
+    },
+    {
       "Id": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

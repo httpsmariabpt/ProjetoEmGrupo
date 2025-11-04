@@ -48,7 +48,7 @@ namespace projeto.Controllers
         // GET: Clientes/Create
         public IActionResult Create()
         {
-            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "AnimalId");
+            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "Nome");
             return View();
         }
 
@@ -66,7 +66,7 @@ namespace projeto.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "AnimalId", cliente.AnimalId);
+            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "Nome", cliente.AnimalId);
             return View(cliente);
         }
 
@@ -83,7 +83,7 @@ namespace projeto.Controllers
             {
                 return NotFound();
             }
-            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "AnimalId", cliente.AnimalId);
+            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "Nome", cliente.AnimalId);
             return View(cliente);
         }
 
@@ -119,7 +119,7 @@ namespace projeto.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "AnimalId", cliente.AnimalId);
+            ViewData["AnimalId"] = new SelectList(_context.Animais, "AnimalId", "Nome", cliente.AnimalId);
             return View(cliente);
         }
 

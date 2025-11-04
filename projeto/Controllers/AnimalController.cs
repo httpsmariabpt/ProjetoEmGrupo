@@ -34,7 +34,7 @@ namespace projeto.Controllers
             }
 
             var animal = await _context.Animais
-                .FirstOrDefaultAsync(m => m.AnimalId == id);
+               .FirstOrDefaultAsync();
             if (animal == null)
             {
                 return NotFound();
@@ -46,6 +46,7 @@ namespace projeto.Controllers
         // GET: Animal/Create
         public IActionResult Create()
         {
+            ViewData["ClienteId"] = new SelectList(_context.Especialidades, "ClienteId", "Nome");
             return View();
         }
 

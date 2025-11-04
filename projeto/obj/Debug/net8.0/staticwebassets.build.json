@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bBEUaWZGvwm0Jqtl9RXqWhSFyDk9qHphhqzry1LJscc=",
+  "Hash": "aK4Sp2M85WCmRZsYKNKHUKK1kHAu+l03ABjxsLWMmBA=",
   "Source": "projeto",
   "BasePath": "_content/projeto",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "kxf95uxj42",
+      "Integrity": "6OVxmgTtO08gQOKgq2RxGoGENZBLH2rFG9ViOJK7q9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\img\\fundoClinica.png",
+      "SourceId": "projeto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\",
+      "BasePath": "_content/projeto",
+      "RelativePath": "img/fundoClinica#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vqlpapyi6i",
+      "Integrity": "VyibHmKf5yMzMKZX6XzeQ9FAJKXzdi4gB644CvO6q2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fundoClinica.png"
     },
     {
       "Identity": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\js\\site.js",
@@ -2581,51 +2602,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Oct 2025 17:39:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2636,7 +2612,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "460"
         },
         {
           "Name": "Content-Type",
@@ -2644,11 +2620,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"6OVxmgTtO08gQOKgq2RxGoGENZBLH2rFG9ViOJK7q9c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Oct 2025 17:39:55 GMT"
+          "Value": "Tue, 04 Nov 2025 10:21:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2634,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-6OVxmgTtO08gQOKgq2RxGoGENZBLH2rFG9ViOJK7q9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.kxf95uxj42.css",
+      "AssetFile": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OVxmgTtO08gQOKgq2RxGoGENZBLH2rFG9ViOJK7q9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 10:21:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxf95uxj42"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6OVxmgTtO08gQOKgq2RxGoGENZBLH2rFG9ViOJK7q9c="
         }
       ]
     },
@@ -4961,6 +4982,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "img/fundoClinica.png",
+      "AssetFile": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\img\\fundoClinica.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VyibHmKf5yMzMKZX6XzeQ9FAJKXzdi4gB644CvO6q2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 10:29:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyibHmKf5yMzMKZX6XzeQ9FAJKXzdi4gB644CvO6q2g="
+        }
+      ]
+    },
+    {
+      "Route": "img/fundoClinica.vqlpapyi6i.png",
+      "AssetFile": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\img\\fundoClinica.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VyibHmKf5yMzMKZX6XzeQ9FAJKXzdi4gB644CvO6q2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Nov 2025 10:29:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vqlpapyi6i"
+        },
+        {
+          "Name": "label",
+          "Value": "img/fundoClinica.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyibHmKf5yMzMKZX6XzeQ9FAJKXzdi4gB644CvO6q2g="
         }
       ]
     },
@@ -9743,7 +9846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 14:31:40 GMT"
+          "Value": "Tue, 28 Oct 2025 10:42:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9788,7 +9891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 14:31:40 GMT"
+          "Value": "Tue, 28 Oct 2025 10:42:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9833,7 +9936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 14:31:40 GMT"
+          "Value": "Tue, 28 Oct 2025 10:42:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9870,7 +9973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 14:31:40 GMT"
+          "Value": "Tue, 28 Oct 2025 10:42:39 GMT"
         },
         {
           "Name": "Cache-Control",

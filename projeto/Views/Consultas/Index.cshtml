@@ -4,50 +4,59 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<body class="bgFundo">
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Data)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Cliente)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Hora)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Veterinario)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Data)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cliente.ClienteId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Hora)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Veterinario.VeterinarioId)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.ConsultaId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ConsultaId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ConsultaId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+
+<div class="cantainer text-wh">
+    <h1 class="text-center display-5 text-white">Cadastro de <span class="fw-bold text-white">Consulta</span></h1>
+
+
+    <p>
+        <a asp-action="Create" class="btn btn-outline-dark btn-lg w-25 text-white">Adicionar Nova Consulta.</a>
+    </p>
+    <table class="table table-bordered table-bordered text-white">
+
+        <thead class="thead-dark">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Data)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Cliente)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Veterinario)
+                </th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Data)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cliente.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Veterinario.Nome)
+                    </td>
+                    <td class="taxt-center my-4 me-4 py-4 mt-4">
+                        <a asp-action="Edit" asp-route-id="@item.ConsultaId"
+                           class="btn btn-sm btn-warning me-2 d-inline-flex align-items-center">
+                            Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.ConsultaId"
+                           class="btn btn-sm btn-danger d-inline-flex align-items-center">
+                            Deletar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+</body>

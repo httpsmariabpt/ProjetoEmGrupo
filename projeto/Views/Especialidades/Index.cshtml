@@ -4,32 +4,44 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<body class="bgFundo">
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nome)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.EspecialidadeId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.EspecialidadeId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.EspecialidadeId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    
+<div class="cantainer text-white">
+    <h1 class="text-center display-5 text-white">Cadastro de <span class="fw-bold text-white">Especialidades</span></h1>
+    <p>
+        <a asp-action="Create" class="btn btn-outline-dark btn-lg w-25 text-white">Adicionar Nova Especialidade.</a>
+    </p>
+        <table class="table table-bordered table-bordered text-white">
+
+            <thead class="thead-light">
+                <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td class="taxt-center my-4 ">
+                        <a asp-action="Edit" asp-route-id="@item.EspecialidadeId"
+                           class="btn btn-sm btn-warning d-inline-flex align-items-center">
+                            Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.EspecialidadeId"
+                           class="btn btn-sm btn-danger d-inline-flex align-items-center">
+                            Deletar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+</body>

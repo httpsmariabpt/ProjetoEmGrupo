@@ -3,44 +3,156 @@
   "WorkspaceRootPath": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\veterinarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\veterinarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\especialidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\especialidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\veterinarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\veterinarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\veterinarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\veterinarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\veterinarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\veterinarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\veterinarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\veterinarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\animal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\animal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\consultas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\consultas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\animal\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\animal\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\animal\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\animal\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\animal\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\animal\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\animal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\animal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\consultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\consultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\consultas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\consultas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\especialidades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\especialidades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\especialidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\especialidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\especialidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\especialidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\especialidades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\especialidades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\data\\migrations\\20251029144253_altertutotoidcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\data\\migrations\\20251029144253_altertutotoidcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +163,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|c:\\users\\maria f. baptista\\documents\\2_semestre\\backend\\mvc\\projeto\\projeto\\data\\migrations\\20251029145507_removehora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5790CE97-EC09-431C-B812-F18BA2C5AFEE}|projeto\\projeto.csproj|solutionrelative:projeto\\data\\migrations\\20251029145507_removehora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,98 +182,481 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T10:38:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Consultas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Delete.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Consultas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T14:54:15.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "projeto\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "projeto\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-28T14:30:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Create.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Animal\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Create.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Animal\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T11:59:26.627Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VeterinariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\VeterinariosController.cs",
-              "RelativeDocumentMoniker": "projeto\\Controllers\\VeterinariosController.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\VeterinariosController.cs",
-              "RelativeToolTip": "projeto\\Controllers\\VeterinariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:52:48.854Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "projeto\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T11:31:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Veterinarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Create.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Veterinarios\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T17:49:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "projeto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T11:32:47.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EspecialidadesController.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\EspecialidadesController.cs",
-              "RelativeDocumentMoniker": "projeto\\Controllers\\EspecialidadesController.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\EspecialidadesController.cs",
-              "RelativeToolTip": "projeto\\Controllers\\EspecialidadesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:52:03.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConsultasController.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ConsultasController.cs",
-              "RelativeDocumentMoniker": "projeto\\Controllers\\ConsultasController.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ConsultasController.cs",
-              "RelativeToolTip": "projeto\\Controllers\\ConsultasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:50:42.63Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T11:34:11.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "projeto\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "projeto\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:50:04.424Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T11:20:38.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Details.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Animal\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Details.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Animal\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T12:39:18.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T11:40:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:09:55.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Animal\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Edit.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Animal\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T12:39:29.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Veterinarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Veterinarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T17:59:26.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Veterinarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Edit.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Veterinarios\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T18:02:33.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Veterinarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Veterinarios\\Delete.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Veterinarios\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T17:52:30.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T11:44:19.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Animal\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Delete.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Animal\\Delete.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAawEYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T12:14:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Animal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Animal\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Animal\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T12:39:41.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Animal.cs",
+              "RelativeToolTip": "projeto\\Models\\Animal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:25:58.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Create.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Consultas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Create.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Consultas\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T11:03:06.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Consultas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Consultas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T13:13:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Consultas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Edit.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Consultas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:57:38.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Details.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Consultas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Consultas\\Details.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Consultas\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T14:32:35.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Consulta.cs",
+              "RelativeToolTip": "projeto\\Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:20:23.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Especialidades\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Delete.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Especialidades\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:50:06.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Create.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Especialidades\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Create.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Especialidades\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:19:16.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wFgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:52:54.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Index.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Especialidades\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Index.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Especialidades\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T14:44:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Edit.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Especialidades\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Especialidades\\Edit.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Especialidades\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:31:13.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "projeto\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Cliente.cs",
+              "RelativeToolTip": "projeto\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:24:33.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251029145507_RemoveHora.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251029145507_RemoveHora.cs",
+              "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251029145507_RemoveHora.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251029145507_RemoveHora.cs",
+              "RelativeToolTip": "projeto\\Data\\Migrations\\20251029145507_RemoveHora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:55:07.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "AnimalController.cs",
               "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\AnimalController.cs",
               "RelativeDocumentMoniker": "projeto\\Controllers\\AnimalController.cs",
               "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\AnimalController.cs",
               "RelativeToolTip": "projeto\\Controllers\\AnimalController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAawDAAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:47:59.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T12:44:36.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20251022144557_BancoFinalizados.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
-              "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
-              "RelativeToolTip": "projeto\\Data\\Migrations\\20251022144557_BancoFinalizados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "projeto\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "projeto\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwv5sAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:45:57.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T14:44:58.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "projeto",
+              "DocumentIndex": 32,
+              "Title": "20251029144253_alterTutoToIdCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251029144253_alterTutoToIdCliente.cs",
+              "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251029144253_alterTutoToIdCliente.cs",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251029144253_alterTutoToIdCliente.cs",
+              "RelativeToolTip": "projeto\\Data\\Migrations\\20251029144253_alterTutoToIdCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:42:53.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projeto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projeto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T14:28:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "projeto\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "projeto\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-28T11:29:24.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "projeto.csproj",
               "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\projeto.csproj",
               "RelativeDocumentMoniker": "projeto\\projeto.csproj",
               "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\projeto.csproj",
               "RelativeToolTip": "projeto\\projeto.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T13:06:34.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:06:34.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\appsettings.json",
+              "RelativeDocumentMoniker": "projeto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\appsettings.json",
+              "RelativeToolTip": "projeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T13:25:11.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "20251022143639_BancoFinalizados.cs",
               "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs",
               "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs",
@@ -177,12 +664,11 @@
               "RelativeToolTip": "projeto\\Data\\Migrations\\20251022143639_BancoFinalizados.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:36:39.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T14:36:39.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 40,
               "Title": "20251022143144_BancoFinalizado.cs",
               "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs",
               "RelativeDocumentMoniker": "projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs",
@@ -190,64 +676,11 @@
               "RelativeToolTip": "projeto\\Data\\Migrations\\20251022143144_BancoFinalizado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:31:44.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T14:31:44.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Especialidade.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Especialidade.cs",
-              "RelativeDocumentMoniker": "projeto\\Models\\Especialidade.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Especialidade.cs",
-              "RelativeToolTip": "projeto\\Models\\Especialidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:23:28.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Veterinario.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Veterinario.cs",
-              "RelativeDocumentMoniker": "projeto\\Models\\Veterinario.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Veterinario.cs",
-              "RelativeToolTip": "projeto\\Models\\Veterinario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:34:40.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Consulta.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Consulta.cs",
-              "RelativeDocumentMoniker": "projeto\\Models\\Consulta.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Consulta.cs",
-              "RelativeToolTip": "projeto\\Models\\Consulta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:34:25.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "projeto\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Cliente.cs",
-              "RelativeToolTip": "projeto\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:34:12.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 38,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "projeto\\Data\\ApplicationDbContext.cs",
@@ -255,34 +688,7 @@
               "RelativeToolTip": "projeto\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAgwCIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:31:29.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Animal.cs",
-              "RelativeDocumentMoniker": "projeto\\Models\\Animal.cs",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\Models\\Animal.cs",
-              "RelativeToolTip": "projeto\\Models\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:29:58.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\appsettings.json",
-              "RelativeDocumentMoniker": "projeto\\appsettings.json",
-              "ToolTip": "C:\\Users\\Maria F. Baptista\\Documents\\2_Semestre\\BackEnd\\MVC\\projeto\\projeto\\appsettings.json",
-              "RelativeToolTip": "projeto\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T13:25:11.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T13:31:29.158Z"
             }
           ]
         }
