@@ -2,7 +2,29 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
+    <img src="img/fundoClinica.png"
+         style="object-fit: cover; width: 100%; height: 100%; position: absolute; top: 0; left: 0; z-index: 0;"
+         alt="Fundo da clínica" />
+
+    <a asp-area="Identity" asp-page="/Account/Login"
+       style="
+      position: absolute;
+      top: 60%;
+      right: 5%;
+      transform: translateY(-50%);
+      z-index: 1;
+      background-color: white;
+      color: #007bff;
+      padding: 20px 54px;
+      border: none;
+      border-radius: 8px;
+      font-size: 30px;
+      text-decoration: none;
+      display: inline-block;
+      cursor: pointer;
+   ">
+        Entrar
+    </a>
+
 </div>

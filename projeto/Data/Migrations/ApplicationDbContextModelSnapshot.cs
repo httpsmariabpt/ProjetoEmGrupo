@@ -259,10 +259,6 @@ namespace projeto.Data.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Tutor")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("AnimalId");
 
                     b.ToTable("Animais", (string)null);
@@ -318,9 +314,6 @@ namespace projeto.Data.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<DateTime>("Data")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime>("Hora")
                         .HasColumnType("datetime2");
 
                     b.Property<Guid>("VeterinarioId")

@@ -49,8 +49,8 @@ namespace projeto.Controllers
         // GET: Consultas/Create
         public IActionResult Create()
         {
-            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "ClienteId");
-            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "VeterinarioId");
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Nome");
+            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "Nome");
             return View();
         }
 
@@ -59,7 +59,7 @@ namespace projeto.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ConsultaId,Data,ClienteId,Hora,VeterinarioId")] Consulta consulta)
+        public async Task<IActionResult> Create([Bind("ConsultaId,Data,ClienteId,VeterinarioId")] Consulta consulta)
         {
             if (ModelState.IsValid)
             {
@@ -68,8 +68,8 @@ namespace projeto.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "ClienteId", consulta.ClienteId);
-            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "VeterinarioId", consulta.VeterinarioId);
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Nome", consulta.ClienteId);
+            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "Nome", consulta.VeterinarioId);
             return View(consulta);
         }
 
@@ -86,8 +86,8 @@ namespace projeto.Controllers
             {
                 return NotFound();
             }
-            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "ClienteId", consulta.ClienteId);
-            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "VeterinarioId", consulta.VeterinarioId);
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Nome", consulta.ClienteId);
+            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "Nome", consulta.VeterinarioId);
             return View(consulta);
         }
 
@@ -96,7 +96,7 @@ namespace projeto.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("ConsultaId,Data,ClienteId,Hora,VeterinarioId")] Consulta consulta)
+        public async Task<IActionResult> Edit(Guid id, [Bind("ConsultaId,Data,ClienteId,VeterinarioId")] Consulta consulta)
         {
             if (id != consulta.ConsultaId)
             {
@@ -124,7 +124,7 @@ namespace projeto.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "ClienteId", consulta.ClienteId);
-            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "VeterinarioId", consulta.VeterinarioId);
+            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "VeterinarioId", "Nome", consulta.VeterinarioId);
             return View(consulta);
         }
 
